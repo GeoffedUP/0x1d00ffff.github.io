@@ -28,7 +28,7 @@ p {font-size: 23px; line-height: 1.3em;}
 
 #header {margin: 0 auto; border-radius: 999px; margin-top: 30px; margin-bottom: 30px; background: #1d00ff; height: 150px; width: 150px;}
 .avatar img {border-radius: 999px;}
-.container {width: 500px; height: -webkit-fill-available; margin: 0 auto; overflow: visible;}
+.container {width: 500px; /*height: -webkit-fill-available;*/ margin: 0 auto; overflow: visible;}
 .inline-list {list-style: none; margin: 0; padding: 0;}
 .inline-list li {display: inline-block; }
 .inline-list li {padding-left: 10px; padding-right: 10px; padding-bottom: 10px;}
