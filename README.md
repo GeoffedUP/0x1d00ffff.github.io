@@ -1,4 +1,5 @@
 # Person Page
+[https://geoffedup.github.io/bio/](https://geoffedup.github.io/bio/)
 
 A simple personal bio site forked from [github.com/jlord/person-page](https://github.com/jlord/person-page). All social media widgets have been removed.
 
