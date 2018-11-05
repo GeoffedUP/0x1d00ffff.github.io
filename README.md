@@ -1,6 +1,7 @@
-# Person Page
+# GeoffedUP's Bio
 [https://geoffedup.github.io/bio/](https://geoffedup.github.io/bio/)
 
+# Person Page
 A simple personal bio site forked from [github.com/jlord/person-page](https://github.com/jlord/person-page). All social media widgets have been removed.
 
 This is a [Fork-n-Go](http://www.jlord.github.io/forkngo) project, so fork to get started making your own.
