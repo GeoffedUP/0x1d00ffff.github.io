@@ -2,13 +2,13 @@ body {
   font-family: Source Sans Pro;
   text-align: center;
   line-height: 1.2em;
-  /*color: #333;*/
-  background: #202226;
-  color: #f2f2f2;
+  /*color: #A5A5A5;*/
+  background: #000000;
+  color: #FFB400;
   margin: 0;
 }
 a {
-  color: #cc66ff;
+  color: #FFB400;
   text-decoration: none;
 }
 
@@ -32,5 +32,5 @@ p {font-size: 23px; line-height: 1.3em;}
 .inline-list {list-style: none; margin: 0; padding: 0;}
 .inline-list li {display: inline-block; }
 .inline-list li {padding-left: 10px; padding-right: 10px;}
-.inline-list li a {padding: 2px 8px; border: 1px solid #cc66ff; border-radius: 2px; letter-spacing: .1em; text-transform: uppercase; font-weight: 400; font-size: 14px;}
-.inline-list li a:hover {background: #cc66ff; color: #fff;}
+.inline-list li a {padding: 2px 8px; border: 1px solid #FFB400; border-radius: 2px; letter-spacing: .1em; text-transform: uppercase; font-weight: 400; font-size: 14px;}
+.inline-list li a:hover {background: #FFB400; color: #fff;}
